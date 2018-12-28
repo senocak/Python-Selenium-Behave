@@ -1,4 +1,4 @@
-lab                     =   "https://47.168.150.91:10077/wae-admin"
+lab                     =   "Lab IP"
 ###################################################################################################################################################
 
 kullanici_id_type       =   "name"
@@ -13,7 +13,7 @@ login_buton_type        =   "XPATH"
 login_buton             =   "/html/body/table/tbody/tr[2]/td[4]/form/table/tbody/tr[5]/td/div/input"
 ###################################################################################################################################################
 
-externalProviderPage    =   lab + "/externalProvider/externalProviderPage.faces"
+externalProviderPage    =   lab + "/external_page"
 
 yeni_ekle_buton_type    =   "id"
 yeni_ekle_buton         =   "extProviderTemplate:form1:newButton"
